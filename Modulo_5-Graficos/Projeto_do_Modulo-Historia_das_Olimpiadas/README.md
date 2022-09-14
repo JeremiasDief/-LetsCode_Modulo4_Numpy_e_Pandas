@@ -1,4 +1,4 @@
-# Projetos do Módulo 5 - História das Olimpíadas
+# Projeto do Módulo 5 - História das Olimpíadas
 
  - Objetivo: Este projeto consistiu em uma análise de dados históricos dos jogos olímpicos utilizando qualquer uma das bibliotecas para gráficos estudadas no módulo (```matplotlib```, ```seaborn``` e ```plotly```). 
 
